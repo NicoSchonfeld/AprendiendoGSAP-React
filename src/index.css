@@ -107,3 +107,12 @@
 
   background-color: rgb(54, 21, 21);
 }
+
+@media screen and (max-width: 900px) {
+  .containerImg {
+    width: auto;
+    height: 350px;
+    position: relative;
+    overflow: hidden;
+  }
+}
