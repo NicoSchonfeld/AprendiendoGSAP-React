@@ -7,11 +7,11 @@ import TutorialGsap4 from "./TutorialGsap4";
 const App = () => {
   return (
     <>
-      <TutorialGsap1 />
+      {/* <TutorialGsap1 />
 
       <TutorialGsap2 />
 
-      <TutorialGsap3 />
+      <TutorialGsap3 /> */}
 
       <TutorialGsap4 />
     </>
